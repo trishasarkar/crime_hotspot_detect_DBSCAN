@@ -2,6 +2,15 @@
 
 This project aims to identify regions where the crime rate is high. The knowledge is of importance to researchers and the security forces.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+  - [Problem Statement & Approach](#problem-statement-and-approach)
+  - [Procedure](#procedure)
+  - [Inference](#inference)
+- [Contributors](#contributors)
+- [Points to be Noted](#points-to-be-noted)
+ 
 ## Prerequisites
 
 Dataset Used: [*Vancouver Open Data Catalogue*](https://www.kaggle.com/wosaku/crime-in-vancouver?select=crime.csv) 
