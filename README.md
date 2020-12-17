@@ -28,6 +28,10 @@ Algorithm used: Density-based spatial clustering of applications with noise (DBS
 
 In the output, non-spherical density based clustering can be seen. The clustering shows the crime hotspots in Vancouver City and some points have also been identified as noise or outliers.
 
+## Contributors
+
+* [Trisha Sarkar](https://github.com/trishasarkar)
+
 ## Points to be Noted
 
 * Estimation of Hyper parameters:
